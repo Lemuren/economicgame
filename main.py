@@ -1,7 +1,7 @@
 import math
 import random
 import matplotlib.pyplot as plt
-
+#shits a shit on a shit
 #LISTS THAT HOLD GOODS AND FACTORIES
 good_list=[]
 factory_list=[]
